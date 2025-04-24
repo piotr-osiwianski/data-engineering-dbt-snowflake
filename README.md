@@ -1,3 +1,12 @@
+## Project
+
+Designed and implemented data (AIRBNB Berlin Reviews, Listings, Hosts) transformation models using DBT on Snowflake Data Warehouse. 
+Data Schema in assets project folder.
+
+Configured the project, created staging and intermediate models, and applied DBT tests to ensure data quality. 
+Leveraged DBT’s materializations (view, table, incremental) for efficient data management and performance. 
+Prepared cloud-based analytical datasets for downstream business intelligence and reporting use cases.
+
 ## Snowflake user creation
 Copy these SQL statements into a Snowflake Worksheet, select all and execute them (i.e. pressing the play button).
 
